@@ -2,6 +2,7 @@
 
 ## Dataset
   This dataset contains information about customers of a bank. Each row represents an individual customer, with multiple columns providing details about their demographics, financial metrics, and engagement with the institution. Here’s a breakdown of the columns and their descriptions:
+  
   	•	RowNumber: A sequential identifier for each row in the dataset.
   	•	CustomerId: A unique identifier assigned to each customer.
   	•	Surname: The last name of the customer.
