@@ -42,10 +42,10 @@ Feature scaling ensures all features contribute equally to the model by standard
 1. Input Layer : Activation function used is Relu, no of neurons = 10
 2. Hidden Layer 1 : Activation function used is Relu, no of neurons = 7
 3. Hidden Layer 2 : Activation function used is Relu, no of neurons = 6
-4. Output Layer : Activation function used is Sigmoid, no of neurons = 1  #Since it is a binary classification Sigmoid id used
-5. optimizer= adam
-6. loss= binary_crossentropy
-7. metrics= accuracy
+4. Output Layer : Activation function used is Sigmoid, no of neurons = 1  #Since it is a binary classification Sigmoid is used
+5. optimizer : Adam
+6. loss : binary_crossentropy
+7. metrics : accuracy
 8. Early Stopping is used to automatically stop the model training when the accuracy is stagnent
 
 ## Confusion Matrix 
